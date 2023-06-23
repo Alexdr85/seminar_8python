@@ -57,13 +57,10 @@ else:
     print('Нет такой функции!')
 
 11:47
-Денис Дворников
 Ivan,Ivanov,Ivanovich,8777455236
 Dmitriy,Dmitriv,Sergeevich,8745541236
 Petrov,Petrov,Petrovich,8745236146
 
-
-клокова екатерина
 
 file_path = 'tel_sprav.txt'
 vvod = int (input('Введите команду: \n1 - Вывод всех данных \n2 - Добавление контакта \n3 - Поиск контакта\n:'))
